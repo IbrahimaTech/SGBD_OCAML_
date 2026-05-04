@@ -1,5 +1,5 @@
 
-# OCaml Mini-RDBMS — Functional Dependencies & Normalization
+# OCaml Mini-RDMS — Functional Dependencies & Normalization
 
 A relational database engine written and implemented in pure OCaml.
 
