@@ -1,0 +1,33 @@
+# Build directory
+_build/
+
+# Compiled OCaml artifacts
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.cmt
+*.cmti
+*.o
+*.a
+*.so
+*.annot
+
+# Generated executable
+tests_exec
+
+# Submission archives
+*.tgz
+*.tar.gz
+
+# Editor / IDE files
+.vscode/
+.idea/
+.merlin
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
