@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Build directory
 _build/
 
@@ -69,4 +69,4 @@ setup.log
 
 # Local OPAM switch
 _opam/
->>>>>>> fbdaf88cd10d440e61e86c80d313f32d4fcc1407
+
