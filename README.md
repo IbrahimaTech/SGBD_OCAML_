@@ -62,7 +62,7 @@ This loads `projet.ml` (via the `#use` directive at the top of `tests.ml`) and i
 
 ## Author
 
-Ibrahima Diaby — ENSIIE, first year Computer Science & Computer Systems Engineering Students — INPF12 / PRIM11 (2025-2026).
+Ibrahima Diaby — ENSIIE, first year Computer Science & Computer Systems Engineering Students — (2025-2026).
 
 =======
 # SGBD_OCAML_
