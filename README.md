@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OCaml Mini-RDBMS — Functional Dependencies & Normalization
 
 A relational database engine written and implemented in pure OCaml.
@@ -63,3 +64,6 @@ This loads `projet.ml` (via the `#use` directive at the top of `tests.ml`) and i
 
 Ibrahima Diaby — ENSIIE, first year Computer Science & Computer Systems Engineering Students — INPF12 / PRIM11 (2025-2026).
 
+=======
+# SGBD_OCAML_
+>>>>>>> fbdaf88cd10d440e61e86c80d313f32d4fcc1407
